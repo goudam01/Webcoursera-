@@ -1,0 +1,30 @@
+
+.recSessions{
+	
+	position: absolute;
+	left: 240px;
+	padding:4px 20px;
+	top: 150px;
+	list-style-type: none;
+
+}
+
+.recSessions li{
+	list-style-type: none;
+	margin-bottom: 30px;
+	width:1300px;
+	padding:30px 50px;
+
+}
+
+.recSessions a{
+	position: absolute;
+	margin-left:30px;
+	text-decoration:none;
+	color: black;
+	font-size:30px;
+}
+.recSessions a:hover{
+	text-decoration: underline;
+	font-size: 20px;
+}

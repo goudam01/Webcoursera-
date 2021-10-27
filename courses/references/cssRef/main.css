@@ -1,0 +1,14 @@
+
+.main{
+
+	position: relative;
+	left: 17%;
+	top: 18%;
+	border: black;
+
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}

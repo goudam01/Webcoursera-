@@ -1,0 +1,34 @@
+body{
+
+	background-color: rgb(240, 240, 240);
+}
+.users{
+	
+	background-color: rgb(240, 240, 240);
+	position: absolute;
+	left:35%;
+	top: 30%;
+	font-size: 20px;
+	padding: 50px 50px;
+	text-align: center;
+
+}
+
+.users li{
+	border-style: groove;	
+	list-style-type: none;
+	margin-bottom: 12px;
+}
+
+.users p{
+
+	position: relative;
+	left: 20px;
+}
+
+
+.users h3{
+
+	border-style: groove;
+	margin-left: 35px;
+}

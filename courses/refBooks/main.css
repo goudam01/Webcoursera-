@@ -1,0 +1,61 @@
+.Books{
+
+	position: absolute;
+	left: 240px;
+	color: black;
+	padding: 4px 20px;
+	top: 140px;
+
+}
+
+ul{
+	list-style-type: none;
+}
+
+.bookInfo{
+	position: relative;
+	color: black;
+	font-size: 16px;
+	margin-left: 200px;
+	bottom: 170px;
+
+}
+.bookInfo li{
+
+
+	margin-bottom: 10px;
+	font-weight: bold;
+}
+
+.bookInfo p{
+
+	color: black;
+	font-weight: normal;
+	margin-right: 200px;
+}
+
+.bookList li[id=book]{
+
+	margin-bottom:30px;
+	color: black;
+	width: 90%;
+	height: 350px;
+	background-color: rgb(180, 200, 190);
+	padding: 10px 40px;
+}
+
+img{
+
+	margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
